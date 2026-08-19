@@ -1,0 +1,83 @@
+[
+  {
+    "id": "id-decoration-01",
+    "title": "Independence Day Decoration",
+    "category": ["independence-day", "village"],
+    "date": "2026-08-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "decoration-morning-01.jpg",
+    "caption": "Setting up the tricolour ahead of the 15 August event"
+  },
+  {
+    "id": "id-decoration-02",
+    "title": "Community Ground Set-Up",
+    "category": ["independence-day", "volunteers"],
+    "date": "2026-08-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "decoration-setup-02.jpg",
+    "caption": "Seating and decorations ready for the community gathering"
+  },
+  {
+    "id": "id-children-01",
+    "title": "Children Celebrating Together",
+    "category": ["independence-day", "education", "volunteers"],
+    "date": "2026-08-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "children-cheering-03.jpg",
+    "caption": "Children cheering with their notebooks after the distribution"
+  },
+  {
+    "id": "id-tribute-01",
+    "title": "Tribute at the Memorial",
+    "category": ["independence-day", "memorial"],
+    "date": "2026-08-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "tribute-ceremony-04.jpg",
+    "caption": "The community gathers near the memorial during the celebration"
+  },
+  {
+    "id": "id-evening-01",
+    "title": "Evening Community Gathering",
+    "category": ["independence-day", "community"],
+    "date": "2026-08-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "evening-gathering-05.jpg",
+    "caption": "Residents and children gathered for the evening programme"
+  },
+  {
+    "id": "id-salute-01",
+    "title": "Saluting Our Hero",
+    "category": ["memorial"],
+    "date": "2026-08-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "salute-memorial-night.jpg",
+    "caption": "Volunteers pay their respects at the memorial"
+  },
+  {
+    "id": "id-clean-01",
+    "title": "Alley Cleanliness Drive",
+    "category": ["cleanliness", "volunteers"],
+    "date": "2026-07-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "alley-cleanup-01.jpg",
+    "caption": "Young volunteers clearing waste from a village lane"
+  },
+  {
+    "id": "id-clean-02",
+    "title": "Waste Collection Drive",
+    "category": ["cleanliness", "volunteers"],
+    "date": "2026-07-15",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "waste-collection-02.webp",
+    "caption": "Volunteers collecting waste during a cleanliness activity"
+  },
+  {
+    "id": "id-clean-03",
+    "title": "Grounds Maintenance",
+    "category": ["cleanliness", "memorial"],
+    "date": "2026-07-26",
+    "location": "Malipur, Uttar Pradesh",
+    "image": "grounds-maintenance-03.jpg",
+    "caption": "Clearing dried grass to keep the memorial grounds tidy"
+  }
+]

@@ -1,0 +1,56 @@
+/* ==========================================================================
+   RULAR SQUAD — Responsive
+   ========================================================================== */
+
+@media (max-width: 1024px) {
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-visual { max-width: 420px; margin: 40px auto 0; order: -1; }
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 860px) {
+  .nav-links { display: none; }
+  .nav-actions .btn-secondary { display: none; }
+  .hamburger { display: flex; }
+  .form-row { grid-template-columns: 1fr; }
+  .contact-grid { grid-template-columns: 1fr; gap: 32px; }
+}
+
+@media (max-width: 640px) {
+  .section { padding: 64px 0; }
+  .hero { padding-bottom: 60px; }
+  .hero-actions { flex-direction: column; align-items: stretch; }
+  .hero-actions .btn { width: 100%; }
+  .hero-stats { gap: 22px; }
+  .footer-grid { grid-template-columns: 1fr; gap: 32px; }
+  .footer-bottom { flex-direction: column; text-align: center; }
+  .footer-bottom a { margin: 0 8px; }
+  .form-card { padding: 26px 20px; }
+  .announce .container { flex-direction: column; gap: 8px; padding-top: 12px; padding-bottom: 12px; }
+
+  /* ---- Donation / payment UI ---- */
+  .pay-tabs { justify-content: stretch; gap: 8px; }
+  .pay-tab { flex: 1 1 0; text-align: center; padding: 10px 8px; font-size: 12.5px; }
+  .upi-app-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .upi-app-btn { padding: 12px; font-size: 12.5px; }
+  .qr-box { padding: 24px 16px; }
+  .qr-box img { max-width: 180px !important; }
+  .bank-table td { font-size: 13px; padding: 10px 0; word-break: break-word; }
+  .bank-table td:first-child { width: 44%; }
+  .support-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+}
+
+@media (max-width: 480px) {
+  .container, .nav-inner { padding: 0 16px; }
+  .upi-app-grid { grid-template-columns: 1fr; }
+  .pay-tabs { flex-wrap: nowrap; }
+  .pay-tab { font-size: 11.5px; padding: 10px 6px; }
+  .form-card { padding: 20px 16px; }
+  .support-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 380px) {
+  .hero h1 { font-size: 34px; }
+  .brand-word { display: none; }
+  .brand img { height: 38px; }
+}
